@@ -258,6 +258,9 @@ body{
     font-size: 40px;
     line-height: 1;
 }
+.text-item h3 {
+  font-size: 15px;
+}
 .text-item p{
     font-size: 14px;
 }
